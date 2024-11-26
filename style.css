@@ -1,0 +1,41 @@
+body{background-color: lightgrey;}
+
+ul, .Nav, .header{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal; color: black;}
+
+p{ font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal; color: white;}
+
+.Nav{float: right; margin-right: 25px;
+margin-top: -70px;}
+
+.top{background-color: #F05700; color: darkgrey; padding: 25px;}
+
+.header{background-color: #EBBC5A; color: black; padding: 12px; border-top-left-radius: 15px; border-top-right-radius: 15px; height: 150px; font-size: 15px;}
+
+ul{ list-style-type: none; margin-left: -49px;}
+
+li {
+  float: left;
+display: block; text-align: center; 
+padding: 15px; left-margin: 90px; top-margin: 95px;}
+
+.Image{border-radius: 20px;}
+strong{font-size:28px;}
+.text{background-color: #6671e3; padding: 20px;}
+.Ux{float: right; margin-left: 350px; margin-top:-310px;}
+
+.Cards{background-color: #EBBC5A; margin-top: 0px; width: 100%; text-align: center;
+border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;}
+
+.inlineBlock{ display: inline-block; background-color: lavender; color: white; margin: 80px; margin-bottom: 100px; margin-top: 90px; padding: 45px; padding-top: 70px; height: 50px; width: 15%; border-radius: 10px;}
+
+p1{ font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: italic; color: darkgreen;}
